@@ -1,3 +1,2 @@
 # hello-world
-This is a training lesson.
-Change.
+This is a training lesson. Change.
